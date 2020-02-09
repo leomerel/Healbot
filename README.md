@@ -2,7 +2,7 @@
 
 HealBot is a local 1v1 game designed during Global Game Jam 2020.
 
-The main theme of this event was the keyword "Repair", so we based our game on healing a team. You have 10 bots in your team, moving around and shoting at the enemies, and your goal is to heal them until your opponents team is beaten.
+The main theme of this event was the keyword "Repair", so we based our game on healing a team. You have 10 bots in your team, moving around and shoting at the enemy bots, and your goal is to heal them until your opponents team is beaten.
 
 We managed to develop this project in 48h with no previous experience in Unity nor any other game engine.
 
