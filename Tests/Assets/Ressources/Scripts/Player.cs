@@ -41,7 +41,7 @@ public class Player : MonoBehaviour
             bots = GameObject.FindGameObjectsWithTag("Ally");
     }
 
-    // Update is called once per frame
+    // Update is called once per frame.
     void Update()
     {
         checkWin();
